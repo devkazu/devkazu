@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;🚀 &nbsp;I graduated in Information Systems at the [UFGD](https://portal.ufgd.edu.br/cursos/sistemas_informacao/index) (Federal University of Grande Dourados) \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
-&nbsp;&nbsp;&nbsp;🔍 &nbsp;I am currently studying focused on the following technologies (React, Radix-ui, NodeJS, Prisma, Typescript).\
+&nbsp;&nbsp;&nbsp;🔍 &nbsp;I am currently studying focused on the following technologies React Native, Typescript, Angular and Java).\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programming since 2014 focused on solving problems.\
 &nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Toledo/PR.
 
