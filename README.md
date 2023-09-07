@@ -1,8 +1,5 @@
 <div align="center">
    <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/hello-coders.gif" href="https://github.com/leokazuyukinagatani" alt="Hello Coders" width="550"/>
-<!--    <br> 
-   <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/dev-working_rounded.gif" href="https://github.com/leokazuyukinagatani" alt="Coding" width="550"/>
-   <br>  -->
 </div>
 
 <table align="right">
