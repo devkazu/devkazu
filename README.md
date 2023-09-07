@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about innovation and technology.\
 &nbsp;&nbsp;&nbsp;🔍 &nbsp;I am currently studying focused on the following technologies (React, Radix-ui, NodeJS, Prisma, Typescript).\
 &nbsp;&nbsp;&nbsp;🛠 &nbsp;Programming since 2014 focused on solving problems.\
-&nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Florianopolis.
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Currently living in Toledo/PR.
 
 #
 <img src="https://github.com/leokazuyukinagatani/leokazuyukinagatani/blob/main/images/connect-with-me.gif" width="275">
